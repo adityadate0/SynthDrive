@@ -28,16 +28,23 @@ When you need more training data for perception and road-scene tasks (domain shi
 ### Showcase samples (Input → Edge Lock → Output)
 
 <p align="center">
-  <img src="samples/showcase_night.png" alt="Showcase sample 1 (Night)" width="900">
+  <img src="samples/showcase_night.png" width="900">
+  <br>
+  <em>Sample 1: Night</em>
 </p>
 
 <p align="center">
-  <img src="samples/showcase_sunset.png" alt="Showcase sample 2 (Sunset)" width="900">
+  <img src="samples/showcase_sunset.png" width="900">
+  <br>
+  <em>Sample 2: Sunset</em>
 </p>
 
 <p align="center">
-  <img src="samples/showcase_thunderstorm.png" alt="Showcase sample 3 (Thunderstorm)" width="900">
+  <img src="samples/showcase_thunderstorm.png" width="900">
+  <br>
+  <em>Sample 3: Thunderstorm</em>
 </p>
+
 
 
 ---
