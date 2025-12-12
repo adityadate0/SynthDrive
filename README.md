@@ -13,6 +13,25 @@ It ships with:
 
 When you need more training data for perception and road-scene tasks (domain shifts like weather, time-of-day, lighting), hand-labeling new collections is expensive. SynthDrive helps you expand coverage from what you already have, without sending data to online services after the initial model download.
 
+## Screenshots
+
+### UI workflow (start → end)
+
+<p align="center">
+  <img src="samples/UI_Start.png" alt="SynthDrive UI - start" width="900">
+</p>
+
+<p align="center">
+  <img src="samples/UI_Finish.png" alt="SynthDrive UI - end" width="900">
+</p>
+
+### Showcase samples (Input → Edge Lock → Output)
+
+| Sample 1 | Sample 2 | Sample 3 |
+|---|---|---|
+| <img src="samples/showcase_night.png" alt="Showcase sample 1 (Night)" width="280"> | <img src="samples/showcase_sunset.png" alt="Showcase sample 2 (Sunset)" width="280"> | <img src="samples/showcase_thunderstorm.png" alt="Showcase sample 3 (Thunderstorm)" width="280"> |
+
+
 ---
 
 ## How it works (high level)
