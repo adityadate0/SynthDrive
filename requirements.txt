@@ -1,0 +1,10 @@
+diffusers
+transformers
+accelerate
+opencv-python
+numpy
+Pillow
+torch
+scipy
+safetensors
+gradio
