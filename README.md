@@ -1,6 +1,6 @@
 # SynthDrive
 
-**🧬 SynthDrive** is an offline “synthetic data factory” for automotive imagery: given a single input frame and a natural-language instruction (e.g., *“make it snowy”*, *“night time”*, *“heavy rain”*), it generates a photorealistic variant while preserving scene geometry via **ControlNet (Canny)**. It is designed to be practical on modest hardware (including older 4GB VRAM GPUs) and can also run fully on CPU.
+**🧬 SynthDrive** is an offline synthetic data factory for automotive imagery: given a single input frame and a natural-language instruction (e.g., *“make it snowy”*, *“night time”*, *“heavy rain”*), it generates a photorealistic variant while preserving scene geometry via **ControlNet (Canny)**. It is designed to be practical on modest hardware (including older 4GB VRAM GPUs) and can also run fully on CPU.
 
 It ships with:
 - A **CLI pipeline** for batch-style generation
